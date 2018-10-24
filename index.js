@@ -9,3 +9,4 @@ function whisper(string) {
 function logShout(string) {
   console.log(spy)
 }
+var const spy = expect.spyOn(console, 'log').andCallThrough()
