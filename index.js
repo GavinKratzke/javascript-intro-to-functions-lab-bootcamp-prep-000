@@ -15,4 +15,3 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  return sayHiToGrandma('hello')
